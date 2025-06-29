@@ -1,0 +1,16 @@
+[
+  {
+    "_id": "1",
+    "title": "Clean Code",
+    "author": "Robert C. Martin",
+    "publisherYear": 2008,
+    "price": 499
+  },
+  {
+    "_id": "2",
+    "title": "Eloquent JavaScript",
+    "author": "Marijn Haverbeke",
+    "publisherYear": 2018,
+    "price": 399
+  }
+]
